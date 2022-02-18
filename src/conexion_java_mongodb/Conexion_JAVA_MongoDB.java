@@ -3,6 +3,7 @@
 // Descripción: Conexión a mongo usando "Mongo 2.9.3" jar
 // Descarga del jar: 
 // https://jar-download.com/artifacts/org.mongodb/mongo-java-driver/2.9.3/source-code
+// Este proyecto esta subido a https://github.com/Imom111/hello_world
 package conexion_java_mongodb;
 public class Conexion_JAVA_MongoDB {
 
